@@ -1,0 +1,56 @@
+{
+	"textureWidth":512,
+	"height":-90,
+	"modelScale":1.3,
+	"motionFace":
+	[
+		"mtn_ex_011.exp.json",
+		"",
+		"",
+		""
+	],
+	"charaName":"鹿目 圓_壓縮",
+	"expressions": 
+	[
+        {
+			"name": "mtn_ex_063.exp.json",
+			"desc": "沒有表情"
+		},
+        {
+			"name": "mtn_ex_110.exp.json",
+			"desc": "微笑(無亮部)"
+		},
+        {
+			"name": "mtn_ex_111.exp.json",
+			"desc": "笑容(無亮部)"
+		},
+        {
+			"name": "mtn_ex_120.exp.json",
+			"desc": "生氣(無亮部)"
+		},
+        {
+			"name": "mtn_ex_130.exp.json",
+			"desc": "哀傷(無亮部)"
+		},
+        {
+			"name": "mtn_ex_140.exp.json",
+			"desc": "困擾(無亮部)"
+		},
+        {
+			"name": "mtn_ex_141.exp.json",
+			"desc": "微苦笑(無亮部)"
+		},
+        {
+			"name": "mtn_ex_151.exp.json",
+			"desc": "察覺(無亮部)"
+		},
+        {
+			"name": "mtn_ex_160.exp.json",
+			"desc": "受傷(無亮部)"
+		},
+        {
+			"name": "mtn_ex_163.exp.json",
+			"desc": "沒有表情(無亮部)"
+		}
+	]
+}
